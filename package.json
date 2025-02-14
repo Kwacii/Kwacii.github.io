@@ -1,0 +1,12 @@
+{
+    "name": "website",
+    "private": true,
+    "version": "0.0.1",
+    "type": "module",
+    "scripts": {
+        "serve":"npx live-server"
+    },
+    "dependencies": {
+        "live-server": "^1.2.2"
+    }
+}
